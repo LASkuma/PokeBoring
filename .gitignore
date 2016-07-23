@@ -1,0 +1,6 @@
+node_modules
+credential.json
+dist
+logs
+*.log
+npm-debug.log*
